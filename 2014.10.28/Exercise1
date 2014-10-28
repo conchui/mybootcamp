@@ -1,0 +1,11 @@
+ ls ../hairy_dangerzone-master > hairy_dangerzone_contents.txt
+
+ grep -r airy > airy.txt
+
+env | grep E > E.txt 
+wc -l > E.txt
+
+head -n17 lib/hairy_dangerzone.rb | tail -n7
+
+ps aux | grep  irb
+kill 6945
